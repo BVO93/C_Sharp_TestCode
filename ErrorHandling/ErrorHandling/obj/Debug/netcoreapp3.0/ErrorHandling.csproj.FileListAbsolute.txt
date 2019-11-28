@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp3.0\ErrorHandling.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp3.0\ErrorHandling.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp3.0\ErrorHandling.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp3.0\ErrorHandling.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp3.0\ErrorHandling.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp3.0\ErrorHandling.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp3.0\ErrorHandling.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp3.0\ErrorHandling.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp3.0\ErrorHandling.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp3.0\ErrorHandling.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp3.0\ErrorHandling.pdb
