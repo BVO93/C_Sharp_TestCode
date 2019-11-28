@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.pdb
