@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\bin\Debug\netcoreapp3.0\BasicClassStructure.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\bin\Debug\netcoreapp3.0\BasicClassStructure.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\bin\Debug\netcoreapp3.0\BasicClassStructure.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\bin\Debug\netcoreapp3.0\BasicClassStructure.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\bin\Debug\netcoreapp3.0\BasicClassStructure.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\bin\Debug\netcoreapp3.0\BasicClassStructure.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\obj\Debug\netcoreapp3.0\BasicClassStructure.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\obj\Debug\netcoreapp3.0\BasicClassStructure.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\obj\Debug\netcoreapp3.0\BasicClassStructure.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\obj\Debug\netcoreapp3.0\BasicClassStructure.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\BasicClassStructure\BasicClassStructure\obj\Debug\netcoreapp3.0\BasicClassStructure.pdb
