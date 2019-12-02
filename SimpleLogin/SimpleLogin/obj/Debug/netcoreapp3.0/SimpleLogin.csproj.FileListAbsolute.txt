@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp3.0\SimpleLogin.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp3.0\SimpleLogin.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp3.0\SimpleLogin.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp3.0\SimpleLogin.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp3.0\SimpleLogin.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp3.0\SimpleLogin.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp3.0\SimpleLogin.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp3.0\SimpleLogin.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp3.0\SimpleLogin.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp3.0\SimpleLogin.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp3.0\SimpleLogin.pdb
