@@ -24,6 +24,7 @@ namespace BasicClassStructure
 
             public Human(string firstName, string lastName, string eyeColor, int age)
         {
+            Console.WriteLine("Human with data made");
             this.firstName = firstName;
             this.lastName = lastName;
             this.eyeColor = eyeColor;

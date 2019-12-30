@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\bin\Debug\netcoreapp3.0\Properties_part1.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\bin\Debug\netcoreapp3.0\Properties_part1.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\bin\Debug\netcoreapp3.0\Properties_part1.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\bin\Debug\netcoreapp3.0\Properties_part1.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\bin\Debug\netcoreapp3.0\Properties_part1.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\bin\Debug\netcoreapp3.0\Properties_part1.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\obj\Debug\netcoreapp3.0\Properties_part1.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\obj\Debug\netcoreapp3.0\Properties_part1.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\obj\Debug\netcoreapp3.0\Properties_part1.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\obj\Debug\netcoreapp3.0\Properties_part1.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\5_Properties1\Properties_part1\Properties_part1\obj\Debug\netcoreapp3.0\Properties_part1.csprojAssemblyReference.cache
