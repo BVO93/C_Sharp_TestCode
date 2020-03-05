@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\MultiDArray\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.pdb

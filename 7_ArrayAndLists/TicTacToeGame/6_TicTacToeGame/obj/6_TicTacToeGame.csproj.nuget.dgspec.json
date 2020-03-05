@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\6_TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj": {}
+    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\7_ArrayAndLists\\TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj": {}
   },
   "projects": {
-    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\6_TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj": {
+    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\7_ArrayAndLists\\TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\6_TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj",
+        "projectUniqueName": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\7_ArrayAndLists\\TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj",
         "projectName": "6_TicTacToeGame",
-        "projectPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\6_TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj",
+        "projectPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\7_ArrayAndLists\\TicTacToeGame\\6_TicTacToeGame\\6_TicTacToeGame.csproj",
         "packagesPath": "C:\\Users\\VBJ1BOX\\.nuget\\packages\\",
-        "outputPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\6_TicTacToeGame\\6_TicTacToeGame\\obj\\",
+        "outputPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_StatingApp\\7_ArrayAndLists\\TicTacToeGame\\6_TicTacToeGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VBJ1BOX\\AppData\\Roaming\\NuGet\\NuGet.Config",
