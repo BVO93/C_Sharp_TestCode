@@ -95,9 +95,7 @@ namespace _6_TicTacToeGame
 
 
                                 checkIfReallyWon(personBusy, tempRow, tempColumn, row, column);
-                             
-
-
+     
                             }
 
                         }
@@ -157,15 +155,6 @@ namespace _6_TicTacToeGame
                                     System.Console.WriteLine("Thirth value found , player {0} won",  personBusy );
                                     break;
                                 }
-
-
-
-
-
-
-
-
-
 
                             }
 
