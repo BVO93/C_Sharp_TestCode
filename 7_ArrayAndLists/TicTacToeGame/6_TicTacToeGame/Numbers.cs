@@ -17,7 +17,6 @@ namespace _6_TicTacToeGame
                         { 4, 5, 6},
                         { 7, 8, 9}, };
 
-
         }
 
         public int GetNunber(int row, int column)

@@ -9,3 +9,14 @@ D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\6_TicTacToeGame\6_TicTacToeGam
 D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\6_TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.AssemblyInfo.cs
 D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\6_TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.dll
 D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\6_TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\bin\Debug\netcoreapp3.0\6_TicTacToeGame.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\bin\Debug\netcoreapp3.0\6_TicTacToeGame.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\bin\Debug\netcoreapp3.0\6_TicTacToeGame.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\bin\Debug\netcoreapp3.0\6_TicTacToeGame.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\bin\Debug\netcoreapp3.0\6_TicTacToeGame.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\bin\Debug\netcoreapp3.0\6_TicTacToeGame.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGame\6_TicTacToeGame\obj\Debug\netcoreapp3.0\6_TicTacToeGame.pdb

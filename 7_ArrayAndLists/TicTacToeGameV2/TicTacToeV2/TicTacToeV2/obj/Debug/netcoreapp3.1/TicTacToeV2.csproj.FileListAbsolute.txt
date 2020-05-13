@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\obj\Debug\netcoreapp3.1\TicTacToeV2.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\obj\Debug\netcoreapp3.1\TicTacToeV2.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\bin\Debug\netcoreapp3.1\TicTacToeV2.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\bin\Debug\netcoreapp3.1\TicTacToeV2.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\bin\Debug\netcoreapp3.1\TicTacToeV2.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\bin\Debug\netcoreapp3.1\TicTacToeV2.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\bin\Debug\netcoreapp3.1\TicTacToeV2.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\bin\Debug\netcoreapp3.1\TicTacToeV2.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\obj\Debug\netcoreapp3.1\TicTacToeV2.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\obj\Debug\netcoreapp3.1\TicTacToeV2.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\TicTacToeGameV2\TicTacToeV2\TicTacToeV2\obj\Debug\netcoreapp3.1\TicTacToeV2.csprojAssemblyReference.cache
