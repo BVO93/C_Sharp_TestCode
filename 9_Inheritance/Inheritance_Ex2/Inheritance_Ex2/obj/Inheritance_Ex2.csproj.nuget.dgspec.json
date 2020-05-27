@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Example\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Ex2\\Inheritance_Ex2\\Inheritance_Ex2.csproj": {}
   },
   "projects": {
-    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Example\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Ex2\\Inheritance_Ex2\\Inheritance_Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Example\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Example\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Ex2\\Inheritance_Ex2\\Inheritance_Ex2.csproj",
+        "projectName": "Inheritance_Ex2",
+        "projectPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Ex2\\Inheritance_Ex2\\Inheritance_Ex2.csproj",
         "packagesPath": "C:\\Users\\VBJ1BOX\\.nuget\\packages\\",
-        "outputPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Example\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\1_Programming\\1_C#\\MasterClass\\1_C#_SmallProjects\\9_Inheritance\\Inheritance_Ex2\\Inheritance_Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VBJ1BOX\\AppData\\Roaming\\NuGet\\NuGet.Config",

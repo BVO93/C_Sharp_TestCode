@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\bin\Debug\netcoreapp3.1\Inheritance_Ex2.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\bin\Debug\netcoreapp3.1\Inheritance_Ex2.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\bin\Debug\netcoreapp3.1\Inheritance_Ex2.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\bin\Debug\netcoreapp3.1\Inheritance_Ex2.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\bin\Debug\netcoreapp3.1\Inheritance_Ex2.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\bin\Debug\netcoreapp3.1\Inheritance_Ex2.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\obj\Debug\netcoreapp3.1\Inheritance_Ex2.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\obj\Debug\netcoreapp3.1\Inheritance_Ex2.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\obj\Debug\netcoreapp3.1\Inheritance_Ex2.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\obj\Debug\netcoreapp3.1\Inheritance_Ex2.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\9_Inheritance\Inheritance_Ex2\Inheritance_Ex2\obj\Debug\netcoreapp3.1\Inheritance_Ex2.pdb
