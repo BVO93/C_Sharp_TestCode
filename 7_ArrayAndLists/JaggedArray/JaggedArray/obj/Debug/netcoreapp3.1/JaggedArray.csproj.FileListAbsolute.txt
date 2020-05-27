@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\bin\Debug\netcoreapp3.1\JaggedArray.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\JaggedArray\JaggedArray\obj\Debug\netcoreapp3.1\JaggedArray.pdb

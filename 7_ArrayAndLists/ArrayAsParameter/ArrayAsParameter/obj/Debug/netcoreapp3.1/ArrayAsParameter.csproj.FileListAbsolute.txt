@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\bin\Debug\netcoreapp3.1\ArrayAsParameter.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\bin\Debug\netcoreapp3.1\ArrayAsParameter.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\bin\Debug\netcoreapp3.1\ArrayAsParameter.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\bin\Debug\netcoreapp3.1\ArrayAsParameter.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\bin\Debug\netcoreapp3.1\ArrayAsParameter.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\bin\Debug\netcoreapp3.1\ArrayAsParameter.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\obj\Debug\netcoreapp3.1\ArrayAsParameter.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\obj\Debug\netcoreapp3.1\ArrayAsParameter.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\obj\Debug\netcoreapp3.1\ArrayAsParameter.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\obj\Debug\netcoreapp3.1\ArrayAsParameter.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_StatingApp\7_ArrayAndLists\ArrayAsParameter\ArrayAsParameter\obj\Debug\netcoreapp3.1\ArrayAsParameter.pdb
