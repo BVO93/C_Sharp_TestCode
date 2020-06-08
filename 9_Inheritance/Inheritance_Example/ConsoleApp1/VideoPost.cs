@@ -14,7 +14,7 @@ namespace Inheritance
 
         //*******  PROPERTIES  *******//
         //PUBLIC
-       public System.Threading.Timer myTimer;
+        public System.Threading.Timer myTimer;
         public string videoURL { get; set; }
         public int length { get; set; }
 
