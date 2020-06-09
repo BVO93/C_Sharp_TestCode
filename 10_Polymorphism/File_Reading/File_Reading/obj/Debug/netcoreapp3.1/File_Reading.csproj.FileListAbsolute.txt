@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\bin\Debug\netcoreapp3.1\File_Reading.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\bin\Debug\netcoreapp3.1\File_Reading.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\bin\Debug\netcoreapp3.1\File_Reading.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\bin\Debug\netcoreapp3.1\File_Reading.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\bin\Debug\netcoreapp3.1\File_Reading.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\bin\Debug\netcoreapp3.1\File_Reading.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\obj\Debug\netcoreapp3.1\File_Reading.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\obj\Debug\netcoreapp3.1\File_Reading.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\obj\Debug\netcoreapp3.1\File_Reading.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\obj\Debug\netcoreapp3.1\File_Reading.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\File_Reading\File_Reading\obj\Debug\netcoreapp3.1\File_Reading.pdb

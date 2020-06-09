@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\10_Polymorphism\Polymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb

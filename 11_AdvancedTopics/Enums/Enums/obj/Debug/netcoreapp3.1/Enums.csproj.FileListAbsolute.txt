@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
