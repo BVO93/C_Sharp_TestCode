@@ -1,0 +1,10 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb

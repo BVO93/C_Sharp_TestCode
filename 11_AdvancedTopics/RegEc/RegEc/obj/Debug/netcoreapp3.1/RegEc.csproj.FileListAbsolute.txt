@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\bin\Debug\netcoreapp3.1\RegEc.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\bin\Debug\netcoreapp3.1\RegEc.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\bin\Debug\netcoreapp3.1\RegEc.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\bin\Debug\netcoreapp3.1\RegEc.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\bin\Debug\netcoreapp3.1\RegEc.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\bin\Debug\netcoreapp3.1\RegEc.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\obj\Debug\netcoreapp3.1\RegEc.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\obj\Debug\netcoreapp3.1\RegEc.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\obj\Debug\netcoreapp3.1\RegEc.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\obj\Debug\netcoreapp3.1\RegEc.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\11_AdvancedTopics\RegEc\RegEc\obj\Debug\netcoreapp3.1\RegEc.pdb
