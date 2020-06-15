@@ -16,6 +16,17 @@ namespace DateTimeT
             Console.WriteLine(DateTime.Now);
 
 
+            double? num8 = null;
+            double? num6 = null;
+
+
+            num8 = num6 ?? 8.13;
+
+
+            Console.WriteLine("Val {0}", num8);
+
+
+
         }
     }
 }
