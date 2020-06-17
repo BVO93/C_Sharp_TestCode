@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb

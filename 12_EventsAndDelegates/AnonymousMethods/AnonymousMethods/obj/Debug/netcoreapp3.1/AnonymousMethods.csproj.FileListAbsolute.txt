@@ -1,0 +1,11 @@
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.exe
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.deps.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.runtimeconfig.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.runtimeconfig.dev.json
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\bin\Debug\netcoreapp3.1\AnonymousMethods.pdb
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.csprojAssemblyReference.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.AssemblyInfoInputs.cache
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.AssemblyInfo.cs
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.dll
+D:\1_Programming\1_C#\MasterClass\1_C#_SmallProjects\12_EventsAndDelegates\AnonymousMethods\AnonymousMethods\obj\Debug\netcoreapp3.1\AnonymousMethods.pdb
