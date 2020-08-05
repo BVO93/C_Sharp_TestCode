@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RadioButton
+namespace PropertyDataEvent
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,21 +23,6 @@ namespace RadioButton
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void NoChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("No... ");
-        }
-
-        private void MaybeChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Maybe..... ");
-        }
-    
-        private  void YesChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Very good ");
         }
     }
 }
