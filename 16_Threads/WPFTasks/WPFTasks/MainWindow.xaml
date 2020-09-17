@@ -7,8 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+<<<<<<< HEAD
         <Button x:Name="MyButton" FontSize="32" Content="Button" HorizontalAlignment="Left" Margin="22,19,0,0" VerticalAlignment="Top" Width="174" Height="69" Click="MyButton_Click2"/>
         <WebBrowser x:Name="myWebBrowser" HorizontalAlignment="Left" Height="303" Margin="22,107,0,0" VerticalAlignment="Top" Width="749"/>
+=======
+        <Button x:Name="MyButton" FontSize="32" Content="Button" HorizontalAlignment="Left" Margin="325,204,0,0" VerticalAlignment="Top" Width="174" Height="69" Click="MyButton_Click"/>
+>>>>>>> 2fa024ebe7865c3e39ca85b89d777ea82daecfb1
 
     </Grid>
 </Window>

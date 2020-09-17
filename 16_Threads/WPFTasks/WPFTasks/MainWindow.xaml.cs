@@ -23,6 +23,7 @@ namespace WPFTasks
     /// </summary>
     public partial class MainWindow : Window
     {
+<<<<<<< HEAD
         public static readonly DependencyProperty HtmlProperty = DependencyProperty.RegisterAttached(
             "Html",
             typeof(string),
@@ -30,6 +31,8 @@ namespace WPFTasks
             new FrameworkPropertyMetadata(OnHtmlChanged));
 
 
+=======
+>>>>>>> 2fa024ebe7865c3e39ca85b89d777ea82daecfb1
         public MainWindow()
         {
             InitializeComponent();
@@ -37,6 +40,7 @@ namespace WPFTasks
 
         private void MyButton_Click(object sender, RoutedEventArgs e)
         {
+<<<<<<< HEAD
             Task.Run(() =>
                 {
 
@@ -89,5 +93,18 @@ namespace WPFTasks
         }
 
 
+=======
+            Task.Run(()=>
+                {
+
+                Debug.WriteLine($"Thread Nr. {Thread.CurrentThread}");
+
+                HttpClient webClient = new HttpClient();
+                string html = webClient.GetStringAsync("http://ipv4.download.thinkbroadband.com/20MB.zip").Result;
+
+                MyButton.Content = "Done";
+            });
+        }
+>>>>>>> 2fa024ebe7865c3e39ca85b89d777ea82daecfb1
     }
 }
