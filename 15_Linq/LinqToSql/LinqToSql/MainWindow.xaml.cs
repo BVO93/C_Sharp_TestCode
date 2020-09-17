@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,31 +14,22 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RadioButton
+namespace LinqToSql
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        LinqToSqlDataContext dataContext;
+
         public MainWindow()
         {
             InitializeComponent();
-        }
 
-        private void NoChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("No... ");
-        }
+            string connectionString = ConfigurationManager.ConnectionStrings["LinqToSql.properties.settings.BVOSQL"].ConnectionString;
 
-        private void MaybeChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Maybe..... ");
-        }
-    
-        private  void YesChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Very good ");
         }
     }
 }

@@ -9,21 +9,21 @@
     <Grid>
         <StackPanel Margin="10">
             <Label FontWeight="Bold" FontSize="20 ">Do You Like Me?</Label>
-            <RadioButton Margin="10">
+            <RadioButton Margin="10" Checked="YesChecked">
                 <WrapPanel>
                     <Rectangle Fill="Green" Width="16" Height="16"></Rectangle>
                     <TextBlock Text="Yes" Foreground="Green" Margin="5,0,0,0"></TextBlock>
                 </WrapPanel>
             </RadioButton>
 
-            <RadioButton Margin="10">
+            <RadioButton Margin="10" Checked="NoChecked">
                 <WrapPanel>
                     <Rectangle Fill="Red" Width="16" Height="16"></Rectangle>
                     <TextBlock Text="No" Foreground="Red" Margin="5,0,0,0"></TextBlock>
                 </WrapPanel>
             </RadioButton>
 
-            <RadioButton Margin="10">
+            <RadioButton  IsChecked="True" Margin="10" Checked="MaybeChecked">
                 <WrapPanel>
                     <Rectangle Fill="Yellow" Width="16" Height="16"></Rectangle>
                     <TextBlock Text="Maybe" Foreground="Yellow" Margin="5,0,0,0"></TextBlock>

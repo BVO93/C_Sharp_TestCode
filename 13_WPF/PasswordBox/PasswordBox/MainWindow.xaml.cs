@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RadioButton
+namespace PasswordBox
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -25,19 +25,9 @@ namespace RadioButton
             InitializeComponent();
         }
 
-        private void NoChecked(object sender, RoutedEventArgs e)
+        private void ButtonClick(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("No... ");
-        }
-
-        private void MaybeChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Maybe..... ");
-        }
-    
-        private  void YesChecked(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Very good ");
+            MessageBox.Show("Welcome " + tbUsername.Text);
         }
     }
 }
