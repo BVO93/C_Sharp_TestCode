@@ -1,0 +1,32 @@
+﻿<Window x:Class="Template.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Template"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <!-- Set datacontext to Appview to sync Gui to back-->
+    <Window.DataContext>
+        <local:AppViewModel />
+    </Window.DataContext>
+
+    
+    <Grid>
+        <Label x:Name="label" Content="Template Application on MVVM" HorizontalAlignment="Left" Margin="177,30,0,0" VerticalAlignment="Top" Width="249" Height="37"/>
+
+        <Button x:Name="button" Content="Calculate Sum" HorizontalAlignment="Left" Margin="40,113,0,0" VerticalAlignment="Top" Width="92"
+            Command="{Binding ComCalcSum}"
+              Click="ClickSum" ></Button> 
+
+
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="246,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"
+                 Text="{Binding value1}"></TextBox>
+            <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="246,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"
+            Text="{Binding value2}"></TextBox>
+            <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Height="23" Margin="246,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"
+            Text="{Binding result}"></TextBox>
+
+    </Grid>
+</Window>
