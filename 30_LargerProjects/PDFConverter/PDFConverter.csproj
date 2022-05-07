@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\DataMiningMethod.png" />
+    <None Remove="Images\Execute.png" />
+    <None Remove="Images\FileGroupDefault.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.DocToPDFConverter.Wpf" Version="20.1.0.52" />
+    <PackageReference Include="Syncfusion.Pdf.Wpf" Version="20.1.0.52" />
+    <PackageReference Include="Syncfusion.SfSkinManager.WPF" Version="20.1.0.52" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="20.1.0.52" />
+    <PackageReference Include="Syncfusion.Themes.FluentLight.WPF" Version="20.1.0.52" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\DataMiningMethod.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Execute.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\FileGroupDefault.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
